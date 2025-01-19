@@ -10,9 +10,6 @@ The Travel Route Planner provides tailored trip planning and optimization featur
 ### Route Optimization
 - Automatically generates the most efficient routes between locations, saving time and effort.
 
-### Focused Features
-- Designed specifically for planning trips in Seattle, with local insights and constraints.
-
 ### Database Integration
 - Allows users to save and retrieve trips for future reference, a feature not natively available in Google Maps.
 
