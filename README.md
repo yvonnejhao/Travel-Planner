@@ -31,6 +31,19 @@ The Travel Route Planner is a full-stack web application designed to help users 
 - **Database Integration:** Stores trip details in a MongoDB database.
 - **City Filter:** Limits trips to Seattle for initial testing purposes.
 
+## Technology Stack
+
+### Frontend
+- **React.js:** For building the user interface, including components like the interactive map and form elements.
+- **Google Maps API:** For map visualization and route calculations.
+- **Language:** JavaScript
+
+### Backend
+- **Node.js with Express.js:** For handling API requests and server-side logic.
+- **MongoDB:** For storing trip details in a NoSQL database.
+- **Language:** JavaScript
+
+
 ---
 
 ## Setup Instructions
