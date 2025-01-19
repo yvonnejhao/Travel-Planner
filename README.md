@@ -117,16 +117,6 @@ http://localhost:5000
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400)
-
-### Map and Routes
-![Map Screenshot](https://via.placeholder.com/800x400)
-
----
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
