@@ -1,5 +1,21 @@
 # Travel Route Planner
 
+## Key Differences and Advantages
+
+The Travel Route Planner provides tailored trip planning and optimization features that distinguish it from Google Maps:
+
+### Customized Itineraries
+- Users can input multiple destinations, preferred travel modes, and trip durations for a personalized experience.
+
+### Route Optimization
+- Automatically generates the most efficient routes between locations, saving time and effort.
+
+### Focused Features
+- Designed specifically for planning trips in Seattle, with local insights and constraints.
+
+### Database Integration
+- Allows users to save and retrieve trips for future reference, a feature not natively available in Google Maps.
+
 ## Overview
 The Travel Route Planner is a full-stack web application designed to help users plan travel routes effectively. Users can add multiple locations, select a travel mode, and generate optimized routes displayed on an interactive Google Map. The backend stores user trip details in a MongoDB database.
 
@@ -114,11 +130,6 @@ http://localhost:5000
     "modeOfTransport": "Car"
   }
   ```
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
